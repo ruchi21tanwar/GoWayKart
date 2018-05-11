@@ -1,0 +1,2 @@
+# GoWayKart
+GoWayKart is an online shopping site developed using server side languages and frameworks which include J2EE, Hibernate, Spring MVC and is designed using CSS ,HTML. At Back-End database used is Mysql. There are basically 3 roles:- 1.Admin: Manages users,sellers and products.2.Seller: add/delete/update/products specifications. 3.User: Registered Users can view/browse/purchase products and can add products to cart.Guest users can only view/browse Products.
